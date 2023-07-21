@@ -115,3 +115,212 @@ This box is for checking your understanding, to make sure you are ready for what
 This box signifies key notes. It may also warn you of possible problems or pitfalls you may encounter!
 
 ```
+
+<!--chapter:end:index.Rmd-->
+
+# Title
+
+<!--chapter:end:02-u1.Rmd-->
+
+# Title
+
+<!--chapter:end:03-u2.Rmd-->
+
+# Title
+
+<!--chapter:end:04-u3.Rmd-->
+
+# Title
+
+<!--chapter:end:05-u4.Rmd-->
+
+# Title
+
+<!--chapter:end:06-u5.Rmd-->
+
+# Title
+
+<!--chapter:end:07-u6.Rmd-->
+
+# Sample Unit Format
+
+## Overview {-}
+
+In this first unit, we begin the course by...  
+
+### Topics {-}
+
+1. Topic  
+1. Topic  
+1. Topic  
+1. Topic  
+
+### Learning Outcomes {-}
+
+When you have completed this unit, you should be able to:
+
+- Describe...
+- Contrast...
+- Analyze...
+- Determine...
+- Create...
+
+### Activity Checklist{-}
+
+Here is a checklist of learning activities you will benefit from in completing this unit. You may find it useful for planning your work.
+
+```{block2, type='reflect'}
+
+<span class="blockhead">Learning Activities </span>
+
+- Chapter 1: sections 1.1, 1.2, 1.3 of the course text *Principles of Management.*  
+- Read or listen to the blog post from Bill Davis, *5 Principles of Great Management*, and reflect on the chart provided.  
+
+```
+
+```{block2, type='assessment'}
+
+<span class="blockhead">Assessment</span> 
+
+- Unit 2 Team Memo  
+
+```
+
+### Resources {-}
+
+Here are the resources you will need to complete this unit.
+
+- Bright, D. S. & Cortes, A. H. (2019). [Principles of Management](https://openstax.org/details/books/principles-management){target="_blank"}.  
+- Other online resources will be provided in the unit.  
+
+## Topic 1 Title
+
+[Add content]
+
+![this is a crow](assets/sample/crow.jpg)
+
+### Activity: Introductory Readings & Video {-}
+
+```{block2, type='reflect'}
+
+- Read ...  
+- Watch this short informative video that helps you understand the competitive environment by using the case of Amazon books Vs. Independent bookstores.  
+
+[Watch: *The Competitive Environment Explained*](https://www.youtube.com/watch?v=XIt7dEmo4D8){target="_blank"}
+
+<div class="video-container">
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XIt7dEmo4D8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
+
+<span class="blockhead">Questions to Consider<span class="prote">
+
+After watching the above video, consider the following questions:
+
+- ...  
+- ...  
+
+**Note:** *Learning activities in this course are ungraded, unless specified. They are designed to help you succeed in your assessments in this course, so you are strongly encouraged to complete them.*
+
+```
+
+## Topic 2 Title
+
+[add content]
+
+## Topic 3 Title
+
+[add content]
+
+## Unit 1 Summary {-}
+
+[add content]
+
+## Assessment{-}
+
+```{block2, type='assessment'}
+
+<span class="blockhead">Assessment 1 Title</span>
+
+- Do a thing  
+- Do another thing  
+
+<span class="blockhead">Assessment 2 Title</span>
+
+- Do a thing  
+- Do another thing  
+
+**Note:** *This is an example of a note pertaining to an assessment*
+
+```
+
+### Checking your Learning{-}
+
+```{block2, type='progress'}
+
+Now that you have completed the learning activities and assignments for this unit, check the unit learning outcomes below to see if you are able to do the following:
+
+- Describe...  
+- Contrast...  
+- Analyze...  
+- Determine...  
+- Create...  
+
+Feel free to review topics more in depth or continue on to the next unit.
+
+```
+
+```{block2, type='caution'}
+
+**Sample courses:** 
+
+- [LDRS 375](https://ba-leadership.github.io/ldrs375/){targt="_blank"}  
+- [LDRS 440](https://ba-leadership.github.io/ldrs440/){target="_blank"}  
+
+```
+
+<!--chapter:end:97-sample-unit.Rmd-->
+
+# Course Credits {-}
+
+## Course Contributors {-}
+### Curriculum Developer {-}
+*** ***
+
+
+
+### Course Instructors {-}
+
+
+
+## Copyright & Credits {-}
+
+**Copyright © 2023 Trinity Western University. All rights reserved.**
+
+The content of this course material is the property of Trinity Western University (TWU) and is protected by copyright law worldwide. This material may be used by students enrolled at TWU for personal study purposes only.
+
+TWU seeks to ensure that any course content that is owned by others has been appropriately cleared for use in this course. Anyone wishing to make additional use of such third party material must obtain clearance from the copyright holder.
+
+### Course Development Team
+
+Course Writer: 
+Instructional Designer: 
+Production Team: 
+Department Chair:
+Dean:
+
+Trinity Western University
+22500 University Drive
+Langley, BC, Canada | V2Y 1Y1
+
+
+<!--chapter:end:98-credits.Rmd-->
+
+# References {-}
+
+The following are key references used in this course.  ***Check with your course syllabus for required readings.***
+
+
+<!--chapter:end:99-references.Rmd-->
+

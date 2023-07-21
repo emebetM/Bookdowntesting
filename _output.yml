@@ -6,9 +6,9 @@ bookdown::gitbook:
       collapse: section
       scroll_highlight: true
       before: |
-        <li><a href="./">Template</a></li>
+        <li><a href="./">testcourse</a></li>
       after: |
-        <li><a href="https://github.com/twuonline/bookdown-template" target="blank">Published with bookdown</a></li>
+        <li><a href="https://github.com/emebetM/bookdowntest" target="blank">Published with bookdown</a></li>
   download: ["pdf"]
 bookdown::pdf_book:
   fig_caption: false
@@ -18,3 +18,4 @@ bookdown::pdf_book:
   citation_package: natbib
   keep_tex: yes
 bookdown::epub_book: default
+
